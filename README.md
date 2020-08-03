@@ -1,2 +1,0 @@
-# dicerollpy
-Dice roll game 
